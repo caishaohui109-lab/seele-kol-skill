@@ -1,0 +1,4 @@
+interface:
+  display_name: "KOL"
+  short_description: "筛选、触达和推进 SEELE YouTube 达人合作"
+  default_prompt: "Use $seele-creator-sourcing to find and export today’s qualified creator prospects for manual outreach."
